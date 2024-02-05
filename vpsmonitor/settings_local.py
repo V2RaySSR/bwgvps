@@ -134,3 +134,5 @@ EMAIL_HOST_USER = 'laoji_org@163.com' # 帐号
 EMAIL_HOST_PASSWORD = '邮箱密码'  # 密码
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 EMAIL_TIMEOUT = 12
+
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
